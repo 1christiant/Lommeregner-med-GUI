@@ -1,0 +1,16 @@
+C:\Users\chth\Documents\Visual Studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\bin\Release\Lommeregner GUI.exe.config
+C:\Users\chth\Documents\Visual Studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\bin\Release\Lommeregner GUI.exe
+C:\Users\chth\Documents\Visual Studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\bin\Release\Lommeregner GUI.pdb
+C:\Users\chth\Documents\Visual Studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\obj\Release\Lommeregner_GUI.Form1.resources
+C:\Users\chth\Documents\Visual Studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\obj\Release\Lommeregner_GUI.Properties.Resources.resources
+C:\Users\chth\Documents\Visual Studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\obj\Release\Lommeregner GUI.csproj.GenerateResource.Cache
+C:\Users\chth\Documents\Visual Studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\obj\Release\Lommeregner GUI.exe
+C:\Users\chth\Documents\Visual Studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\obj\Release\Lommeregner GUI.pdb
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\bin\Release\Lommeregner GUI.exe.config
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\bin\Release\Lommeregner GUI.exe
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\bin\Release\Lommeregner GUI.pdb
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\obj\Release\Lommeregner_GUI.Form1.resources
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\obj\Release\Lommeregner_GUI.Properties.Resources.resources
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\obj\Release\Lommeregner GUI.csproj.GenerateResource.Cache
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\obj\Release\Lommeregner GUI.exe
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\obj\Release\Lommeregner GUI.pdb

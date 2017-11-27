@@ -1,0 +1,18 @@
+c:\users\chth\documents\visual studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\bin\Debug\Lommeregner GUI.exe.config
+c:\users\chth\documents\visual studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\bin\Debug\Lommeregner GUI.exe
+c:\users\chth\documents\visual studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\bin\Debug\Lommeregner GUI.pdb
+c:\users\chth\documents\visual studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\obj\Debug\Lommeregner GUI.csprojResolveAssemblyReference.cache
+c:\users\chth\documents\visual studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\obj\Debug\Lommeregner_GUI.Form1.resources
+c:\users\chth\documents\visual studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\obj\Debug\Lommeregner_GUI.Properties.Resources.resources
+c:\users\chth\documents\visual studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\obj\Debug\Lommeregner GUI.csproj.GenerateResource.Cache
+c:\users\chth\documents\visual studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\obj\Debug\Lommeregner GUI.exe
+c:\users\chth\documents\visual studio 2017\Projects\Lommeregner GUI\Lommeregner GUI\obj\Debug\Lommeregner GUI.pdb
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\bin\Debug\Lommeregner GUI.exe.config
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\bin\Debug\Lommeregner GUI.exe
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\bin\Debug\Lommeregner GUI.pdb
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\obj\Debug\Lommeregner GUI.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\obj\Debug\Lommeregner_GUI.Form1.resources
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\obj\Debug\Lommeregner_GUI.Properties.Resources.resources
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\obj\Debug\Lommeregner GUI.csproj.GenerateResource.Cache
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\obj\Debug\Lommeregner GUI.exe
+C:\Users\Christian\Desktop\Lommeregner GUI\Lommeregner GUI\obj\Debug\Lommeregner GUI.pdb
