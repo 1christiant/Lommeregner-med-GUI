@@ -11,4 +11,4 @@ Regnearter understøttet af lommeregneren:
 - \/ Division
 - \% Modulo
 - \^ Potens
-- \q Kvadratrod
+- q Kvadratrod
